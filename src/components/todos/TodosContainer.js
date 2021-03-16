@@ -7,8 +7,8 @@ class TodosContainer extends Component {
     return(
         <div></div>
       );
-  }
-  }
+    }
+  };
   
   const mapStateToProps = state => {
     return {

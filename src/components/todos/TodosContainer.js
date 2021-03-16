@@ -15,6 +15,5 @@ class TodosContainer extends Component {
       todos: state.todos
     }
   }
-}
 
 export default connect(mapStateToProps)(TodosContainer);
